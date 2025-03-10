@@ -19,3 +19,8 @@ The installation is fairly simple:
  - Clone the repository 
  - Make the script executable using chmod +x (I recommend using chmod 700) 
  - Execute it using bash
+
+git clone https://github.com/c41ca/composer-installer/
+cd composer-installer
+chmod 700 composer_install.sh
+./composer_install.sh
