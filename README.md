@@ -16,6 +16,6 @@ Requirements:
 
 
 The installation is fairly simple:
-Clone the repository
-Make the script executable using chmod +x (I recommend using chmod 700)
-Execute it using bash
+ - Clone the repository 
+ - Make the script executable using chmod +x (I recommend using chmod 700) 
+ - Execute it using bash
